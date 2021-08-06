@@ -30,12 +30,12 @@ const questions = [
     },
     {
         type: "input",
-        name: "install",
+        name: "contributing",
         message: "Credit contributing parties",
     },
     {
         type: "input",
-        name: "install",
+        name: "tests",
         message: "Provide testing instructions",
     },
     {
