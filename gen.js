@@ -2,6 +2,8 @@ function gen(data) {
     return `
     # ${data.title};
 
+    [![License](https://img.shields.io/badge/License-${data.license}%20-blue.svg)](https://opensource.org/licenses/${data.license})
+
     ## Table of Contents:
         *[Description](#description)
         *[Installation](#installation)
