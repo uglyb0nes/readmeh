@@ -13,16 +13,21 @@ function gen(data) {
     *[Questions](#questions)
     *[License](#license)
 
-#Description
+# Description
 ${data.description};
-#Installation
+
+# Installation
 ${data.install};
-#Usage
+
+# Usage
 ${data.usage};
-#Contributors
+
+# Contributors
 ${data.contributing};
-#Tests
+
+# Tests
 ${data.tests};
+
 # Questions
 Feel free to reach out to me if you have questions!
 Github: [https://github.com/${data.github}](https://github.com/${data.github})
