@@ -30,12 +30,12 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-Feel free to reach out to me if you have questions!
-Github: [https://github.com/${data.github}](https://github.com/${data.github})
+Feel free to reach out to me if you have questions!<br>
+Github: [https://github.com/${data.github}](https://github.com/${data.github})<br>
 Email: [${data.email}](${data.email})
 
 ## License
-[${data.license}](https://opensource.org/licenses)
+[${data.license}](https://opensource.org/licenses)<br>
 CLICK TO VIEW TERMS AND CONDITIONS OF ALL OPEN SOURCE LICENSES.
     `;
 };

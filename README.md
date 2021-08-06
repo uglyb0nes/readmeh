@@ -14,10 +14,10 @@
 * [License](#license)
 
 ## Description
-A simple command line applicaiton to quickly & easily generate README files!
+A simple command line application to quickly & easily generate README files.
 
 ## Installation
-Simply clone the repo to a local file on your machine. Must have Node.js installed.
+Clone the repository to a local file on your machine. Must have Node.js installed.
 
 ## Usage
 Using your terminal, navigate into the folder containing the cloned repository. Run command 'node index' to initialize prompt sequence. Once you are finished filling in the prompts, a README.md file will be created in your folder.
@@ -29,11 +29,11 @@ I am the sole contributor.
 None
 
 ## Questions
-Feel free to reach out to me if you have questions!
-Github: [https://github.com/uglyb0nes](https://github.com/uglyb0nes)
+Feel free to reach out to me if you have questions!<br>
+Github: [https://github.com/uglyb0nes](https://github.com/uglyb0nes)<br>
 Email: [leigh.carterjohnson@gmail.com](leigh.carterjohnson@gmail.com)
 
 ## License
-[Unlicense](https://opensource.org/licenses)
+[Unlicense](https://opensource.org/licenses)<br>
 CLICK TO VIEW TERMS AND CONDITIONS OF ALL OPEN SOURCE LICENSES.
     
