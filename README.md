@@ -14,19 +14,19 @@
 * [License](#license)
 
 ## Description
-readme generator
+A simple command line applicaiton to quickly & easily generate README files!
 
 ## Installation
-node index.js
+Simply clone the repo to a local file on your machine. Must have Node.js installed.
 
 ## Usage
-run command
+Using your terminal, navigate into the folder containing the cloned repository. Run command 'node index' to initialize prompt sequence. Once you are finished filling in the prompts, a README.md file will be created in your folder.
 
 ## Contributors
-me
+I am the sole contributor.
 
 ## Tests
-none
+None
 
 ## Questions
 Feel free to reach out to me if you have questions!
