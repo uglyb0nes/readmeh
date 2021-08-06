@@ -4,13 +4,13 @@
 [![License](https://img.shields.io/badge/License-Unlicense%20-blue.svg)](https://opensource.org/licenses/Unlicense)
 
 ## Table of Contents:
-    *[Description](#description)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[Contributing](#contributors)
-    *[Tests](#tests)
-    *[Questions](#questions)
-    *[License](#license)
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Contributing](#contributors)
+    * [Tests](#tests)
+    * [Questions](#questions)
+    * [License](#license)
 
 # Description
 readme generator;
